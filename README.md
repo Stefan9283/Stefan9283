@@ -32,4 +32,4 @@ filter: hue-rotate(90deg);
 
 
 ### Spotify Playing 🎧
-<img src="https://novatorem.stefan9283.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21leaa5wnmpiivq2htfuukuiq)
+<img src="https://novatorem.stefan9283.vercel.app/api/novatorem" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21leaa5wnmpiivq2htfuukuiq)
