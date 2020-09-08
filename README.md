@@ -16,22 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Languages and Tools:
-
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-filter: hue-rotate(90deg);
-<img align="left" alt="C++" width="26px" src="icons/cplusplus.svg" />
-<img align="left" alt="Bash" width="26px" src="icons/gnubash.svg" />
-<img align="left" alt="VS" width="26px" src="icons/visualstudio.svg" />
-<img align="left" alt="VSCODE" width="26px" src="icons/visualstudiocode.svg" />
-<img align="left" alt="Blender" width="26px" src="icons/blender.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-coral-two.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21leaa5wnmpiivq2htfuukuiq)
 
