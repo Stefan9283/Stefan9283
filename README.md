@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Vulkan, OpenGL and Python
+- 🕵 I’m currently learning Vulkan, OpenGL and Python
 - 📫 How to reach me: https://twitter.com/PigeonMan1313
 
 ### Spotify Playing 🎧
