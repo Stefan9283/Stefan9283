@@ -19,7 +19,6 @@ I'm Ștefan Toma, a Computer Science student at the Polytehnic University of Buc
 #### Contact
 - 📫 Twitter:  https://twitter.com/Stefan9173
 - 🔗 LinkedIn: [my LinkedIn page](https://www.linkedin.com/in/%C5%9Ftefan-toma-b18b56140/)
-- 💌 Email:    stefan9283@gmail.com
 
 #### Currently Listening To 🎧
 [![Spotify](https://spotifyinreadme.vercel.app/api/spotify)](https://open.spotify.com/user/21leaa5wnmpiivq2htfuukuiq)
