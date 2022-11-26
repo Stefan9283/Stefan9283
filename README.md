@@ -16,10 +16,6 @@ I'm Ștefan Toma, a Computer Science student at the Polytehnic University of Buc
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
-#### Contact
-- 📫 Twitter:  https://twitter.com/Stefan9173
-- 🔗 LinkedIn: [my LinkedIn page](https://www.linkedin.com/in/stefant0ma/)
-
 #### Currently Listening To 🎧
 [![Spotify](https://spotifyinreadme.vercel.app/api/spotify)](https://open.spotify.com/user/21leaa5wnmpiivq2htfuukuiq)
 
