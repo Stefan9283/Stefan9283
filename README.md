@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Ștefan Toma, a Computer Science student at the Polytehnic University of Bucharest
+I'm Ștefan Toma, SDE @ Amazon Web Services and a Computer Science alumini @ the Polytehnic University of Bucharest
 
-- Currently learning Vulkan, scripting and game development concepts 🕵 
+- Currently writing my own embeddable scripting language 🕵
 - C/C++ addict 
 - CG enthusiast✨
 - will automatize whatever I find repetitive
